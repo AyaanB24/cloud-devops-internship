@@ -157,12 +157,6 @@ Added the following screenshots in Screenshot folder:
 
 ---
 
-## 👨‍💻 Author
-
-**Ayaan Bargir**
-Full Stack Developer | DevOps Enthusiast
-
----
 
 ## 🎯 Key Learning Outcome
 
@@ -171,5 +165,12 @@ Full Stack Developer | DevOps Enthusiast
 - Secure content delivery using HTTPS
 - Real-world AWS deployment workflow
 - Basic DevOps pipeline understanding
+
+---
+
+## 👨‍💻 Author
+
+**Ayaan Bargir**
+Full Stack Developer | DevOps Enthusiast
 
 ---
