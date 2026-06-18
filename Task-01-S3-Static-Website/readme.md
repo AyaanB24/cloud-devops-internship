@@ -1,4 +1,3 @@
-Below is a **proper, well-aligned, recruiter-ready GitHub README**. Clean structure, consistent spacing, and production-style formatting.
 
 ---
 
@@ -128,7 +127,7 @@ https://d2y6bvogsaqm3p.cloudfront.net/
 
 ## 📸 Screenshots
 
-Add the following screenshots:
+Added the following screenshots in Screenshot folder:      
 
 - S3 bucket configuration
 - Static website hosting settings
