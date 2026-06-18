@@ -53,9 +53,10 @@ portfolio/
 ├── styles.css
 │
 └── assets/
-    ├── profile.jpg
-    ├── project1.png
-    └── project2.png
+    ├── Bucket Policy.png
+    ├── CloudFront Dashboard.png
+    ├── Live Portfolio.png
+    └── S3 Bucket.png
 ```
 
 ---
