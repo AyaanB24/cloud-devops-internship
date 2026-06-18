@@ -29,7 +29,7 @@ Global Users
 
 ## 🌐 Live Demo
 
-👉 [[https://your-cloudfront-domain.cloudfront.net](https://your-cloudfront-domain.cloudfront.net)](https://d2y6bvogsaqm3p.cloudfront.net/)
+👉 https://d2y6bvogsaqm3p.cloudfront.net/
 
 ---
 
